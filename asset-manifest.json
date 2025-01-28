@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/trashpand2492.github.io/static/css/main.308ef953.css",
+    "main.js": "/trashpand2492.github.io/static/js/main.227678e9.js",
+    "static/media/croppedProPic.jpg": "/trashpand2492.github.io/static/media/croppedProPic.b2ee30c0436358cd622d.jpg",
+    "static/media/postgresql.png": "/trashpand2492.github.io/static/media/postgresql.a7fa39912c91e079e90b.png",
+    "static/media/microsoft-sql-server.png": "/trashpand2492.github.io/static/media/microsoft-sql-server.3d34d49043808524c639.png",
+    "static/media/react.png": "/trashpand2492.github.io/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/c.png": "/trashpand2492.github.io/static/media/c.ca323b325816f40cf155.png",
+    "static/media/mysql.png": "/trashpand2492.github.io/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/kubernetes.png": "/trashpand2492.github.io/static/media/kubernetes.a295573cbb04a40e562c.png",
+    "static/media/snowflake.png": "/trashpand2492.github.io/static/media/snowflake.696bd74f5798f5c71aa2.png",
+    "static/media/bamboo.png": "/trashpand2492.github.io/static/media/bamboo.096e5bacca770ed7f66b.png",
+    "static/media/java.png": "/trashpand2492.github.io/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/c++.png": "/trashpand2492.github.io/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/python.png": "/trashpand2492.github.io/static/media/python.c2f539d50caa3745ce64.png",
+    "static/media/raccoon.png": "/trashpand2492.github.io/static/media/raccoon.de4ff533b7d91dad2e31.png",
+    "static/media/docker.png": "/trashpand2492.github.io/static/media/docker.a1ade01f67ea8745fce2.png",
+    "static/media/github-icon.png": "/trashpand2492.github.io/static/media/github-icon.f11021803f68852df283.png",
+    "static/media/html-5.png": "/trashpand2492.github.io/static/media/html-5.b2db3a7f6897f0a6e75c.png",
+    "static/media/javascript.png": "/trashpand2492.github.io/static/media/javascript.a0467e05ac0c949d9cf5.png",
+    "static/media/css-3.png": "/trashpand2492.github.io/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/linkedin-icon.png": "/trashpand2492.github.io/static/media/linkedin-icon.f249b38224ca41a0b909.png",
+    "static/media/aws.png": "/trashpand2492.github.io/static/media/aws.f72bce9a8bd1112e5282.png",
+    "index.html": "/trashpand2492.github.io/index.html",
+    "main.308ef953.css.map": "/trashpand2492.github.io/static/css/main.308ef953.css.map",
+    "main.227678e9.js.map": "/trashpand2492.github.io/static/js/main.227678e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308ef953.css",
+    "static/js/main.227678e9.js"
+  ]
+}
