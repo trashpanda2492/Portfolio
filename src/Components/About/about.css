@@ -1,0 +1,107 @@
+#about {
+    overflow: hidden;
+    width: 100vw;
+    height: 75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.aboutTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.aboutDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 55rem;
+    padding: 0 2rem;
+}
+
+.aboutBars {
+    width: 100vw;
+    max-width: 30%;
+}
+
+.aboutBar {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+    justify-content: center;
+}
+
+.aboutBarImg {
+    object-fit: cover;
+    height: 4rem;
+    width: 4rem;
+    margin: 0 2rem;
+}
+
+@media screen and (max-width: 1594px) {
+    .aboutBarImg {
+        margin: 0 1.5rem;
+    }
+}
+
+@media screen and (max-width: 1432px) {
+    .aboutBarImg {
+        margin: 0 1rem;
+    }
+}
+
+@media screen and (max-width: 1268px) {
+    .aboutBarImg {
+        margin: 0 0.5rem;
+    }
+}
+
+@media screen and (max-width: 1106px) {
+    .aboutBarImg {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .aboutBarImg {
+        height: 3rem;
+        width: 3rem;
+    }
+}
+
+@media screen and (max-width: 742px) {
+    .aboutBarImg {
+        height: 2rem;
+        width: 2rem;
+    }
+}
+
+@media screen and (max-width: 532px) {
+    .aboutTitle {
+        font-size: 2rem;
+    }
+    .aboutDesc {
+        font-size: 0.75rem;
+    }
+}
+
+@media screen and (max-width: 524px) {
+    .aboutBars {
+        max-width: 20%;
+    }
+    .aboutBar {
+        margin: 0;
+        padding: 0.5rem 1rem;
+    }
+    .aboutBarImg {
+        height: 1rem;
+        width: 1rem;
+    } 
+}

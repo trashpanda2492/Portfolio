@@ -1,0 +1,96 @@
+#intro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+.bg {
+    position: absolute;
+    top: 1rem;
+    right: 0;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.introName {
+    color: rgb(56, 236, 197);
+}
+
+.introPara {
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.btn {
+    background: white;
+    margin: 1rem 0;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+}
+
+.btnImg {
+    object-fit: cover;
+    margin: 0 0.25rem;
+    padding-top: 0.25rem;
+    height: 1.5rem;
+}
+
+@media screen and (max-width: 1150px) {
+    .bg {
+        right: -10vw;
+    }
+}
+
+@media screen and (max-width: 1048px) {
+    .introPara {
+        letter-spacing: 0;
+    }
+}
+
+@media screen and (max-width: 978px) {
+    .introPara {
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 874px) {
+    .introPara {
+        font-size: x-small;
+    }
+    .introContent {
+        font-size: 5vw;
+        font-weight: 500;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .introPara {
+        font-size: xx-small;
+    }
+    .introContent {
+        font-size: 2vw;
+        font-weight: 300;
+    }
+}
+
+@media screen and (max-width: 734px) {
+    .bg {
+        opacity: 0.2;
+    }
+}
